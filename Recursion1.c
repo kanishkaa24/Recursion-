@@ -16,7 +16,7 @@ void decreasing(int num2)
     if(num2 >= 1)
     {
         printf("%d ",num2);
-        decreasing(num2-1);// tail recursion 
+        decreasing(num2-1); // tail recursion 
     }
     return;
 }
