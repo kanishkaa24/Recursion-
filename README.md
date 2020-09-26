@@ -1,1 +1,1 @@
-This is a reposiroty consisting various programs based upon recursion. 
+This is a repository consisting programs based upon recursion in C. 
